@@ -1,5 +1,5 @@
 
-# Hello, There!
+# Hello, There 👋!
 
 My name is Sai Bhargav and I'm a software developer, currently working at Sephora. You can find me on [![Linkedin][1.2]][2] or on [![Github][1.1]][1]
 
