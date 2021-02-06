@@ -18,12 +18,17 @@ My name is Sai Bhargav and I'm a software developer, currently working at Sephor
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-bhargav&layout=compact&theme=solarized-dark" />
 
+<a href="https://github.com/sai-bhargav/go-remote-compiler">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sai-bhargav&repo=go-remote-compiler&theme=solarized-dark" />
+</a>
 
+<a href="https://github.com/sai-bhargav/go-otp">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sai-bhargav&repo=go-otp&theme=solarized-dark" />
+</a>
 
 [1.1]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 [1.2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 [1]: https://github.com/sai-bhargav
 [2]: https://www.linkedin.com/in/sai-bhargav-kollimarla/
+
