@@ -1,7 +1,7 @@
 
 # Hello, There 👋!
 
-My name is Sai Bhargav and I'm a software developer, currently working at Sephora. You can find me on [![Linkedin][1.2]][2] or on [![Github][1.1]][1]
+<!-- My name is Sai Bhargav and I'm a software developer, currently working at Sephora. You can find me on [![Linkedin][1.2]][2] or on [![Github][1.1]][1]
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Linux-121011?style=for-the-badge&logo=linux&logoColor=white)
@@ -30,5 +30,5 @@ My name is Sai Bhargav and I'm a software developer, currently working at Sephor
 [1.2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 [1]: https://github.com/sai-bhargav
-[2]: https://www.linkedin.com/in/sai-bhargav-kollimarla/
+[2]: https://www.linkedin.com/in/sai-bhargav-kollimarla/ -->
 
